@@ -1,3 +1,5 @@
+// Change made directly on GitHub for Jenkins test
+
 import java.util.Scanner;
 
 public class PalindromeCheck {
